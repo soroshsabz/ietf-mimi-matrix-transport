@@ -101,6 +101,12 @@ informative:
       Web: https://gitlab.matrix.org/matrix-org/mls-ts/-/blob/dd57bc25f6145ddedfb6d193f6baebf5133db7ed/decentralised.org
     format:
       ORG: https://gitlab.matrix.org/matrix-org/mls-ts/-/blob/dd57bc25f6145ddedfb6d193f6baebf5133db7ed/decentralised.org
+   BoFMIMI:
+     target: https://datatracker.ietf.org/doc/bofreq-cooper-more-instant-messaging-interoperability
+     title: "More Instant Messaging Interoperability"
+     date: 2022
+     author:
+       - name: Alissa Cooper
 
 --- abstract
 
