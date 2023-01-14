@@ -101,12 +101,12 @@ informative:
       Web: https://gitlab.matrix.org/matrix-org/mls-ts/-/blob/dd57bc25f6145ddedfb6d193f6baebf5133db7ed/decentralised.org
     format:
       ORG: https://gitlab.matrix.org/matrix-org/mls-ts/-/blob/dd57bc25f6145ddedfb6d193f6baebf5133db7ed/decentralised.org
-   BoFMIMI:
-     target: https://datatracker.ietf.org/doc/bofreq-cooper-more-instant-messaging-interoperability
-     title: "More Instant Messaging Interoperability"
-     date: 2022
-     author:
-       - name: Alissa Cooper
+  BoFMIMI:
+    target: https://datatracker.ietf.org/doc/bofreq-cooper-more-instant-messaging-interoperability
+    title: "More Instant Messaging Interoperability"
+    date: 2022
+    author:
+      - name: Alissa Cooper
 
 --- abstract
 
@@ -131,7 +131,7 @@ aggressive resilience to network partitions, suitable even for the harshest deni
 
 Matrix {{MxSpec}} is an open standard first created in 2014 to define interoperable, decentralized, secure communication. Matrix exited
 beta in June 2019, and having been actively maintained and improved since under an open governance model {{MxFoundation}}, a subset of
-the open standard fits extremely well within the More Instant Messaging Interoperability (MIMI) working group's efforts to establish
+the open standard fits extremely well within the More Instant Messaging Interoperability (MIMI) {{BoFMIMI}} working group's efforts to establish
 standards for interoperable modern messaging applications. This document focuses on the transport (message- or event-passing) portion
 of the Matrix protocol as it relates to MIMI.
 
